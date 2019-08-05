@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name NC7SZ86)(type KiCad)(uri /Users/mac/Documents/KiCad/Boost_Converter/lib_sch/NC7SZ86.pretty)(options "")(descr ""))
+  (lib (name DIO5158)(type KiCad)(uri /Users/mac/Documents/KiCad/Boost_Converter/lib_fp.pretty/DIO5158.pretty)(options "")(descr ""))
+  (lib (name MC34063EBD)(type KiCad)(uri /Users/mac/Documents/KiCad/Boost_Converter/lib_fp.pretty/MC34063EBD.pretty)(options "")(descr ""))
+  (lib (name 18650_HOLER)(type KiCad)(uri /Users/mac/Documents/KiCad/Boost_Converter/lib_fp.pretty/18650_HOLER.pretty)(options "")(descr ""))
+)

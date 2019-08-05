@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name MC34063A:E)(type Legacy)(uri /Users/mac/Documents/KiCad/Boost_Converter/lib_sch/MC34063A:E.lib)(options "")(descr ""))
+  (lib (name MC34063A)(type Legacy)(uri ${KIPRJMOD}/MC34063A.lib)(options "")(descr ""))
+  (lib (name DIO5158)(type Legacy)(uri /Users/mac/Documents/KiCad/Boost_Converter/lib_sch/DIO5158.lib)(options "")(descr ""))
+  (lib (name X-OR-NC7SZ86)(type Legacy)(uri /Users/mac/Documents/KiCad/Boost_Converter/lib_sch/X-OR-NC7SZ86.lib)(options "")(descr ""))
+)
