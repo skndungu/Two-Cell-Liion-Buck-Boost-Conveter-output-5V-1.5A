@@ -11,7 +11,7 @@ Rev "v01"
 Comp "skndungu_devs"
 Comment1 ""
 Comment2 ""
-Comment3 ""
+Comment3 "Licence: CERN OHL"
 Comment4 "Author:  Simon Ndungu"
 $EndDescr
 $Comp
@@ -824,12 +824,12 @@ $EndComp
 $Comp
 L Graphic:Logo_Open_Hardware_Small #LOGO2
 U 1 1 5D4B6FE2
-P 8700 6750
-F 0 "#LOGO2" H 8700 7025 50  0001 C CNN
-F 1 "Logo_Open_Hardware_Small" H 8700 6525 50  0001 C CNN
-F 2 "" H 8700 6750 50  0001 C CNN
-F 3 "~" H 8700 6750 50  0001 C CNN
-	1    8700 6750
+P 10950 6750
+F 0 "#LOGO2" H 10950 7025 50  0001 C CNN
+F 1 "Logo_Open_Hardware_Small" H 10950 6525 50  0001 C CNN
+F 2 "" H 10950 6750 50  0001 C CNN
+F 3 "~" H 10950 6750 50  0001 C CNN
+	1    10950 6750
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -843,4 +843,8 @@ F 3 "~" H 4150 4900 50  0001 C CNN
 	1    4150 4900
 	1    0    0    -1  
 $EndComp
+Text Notes 7000 6900 0    47   ~ 0
+Resources: https://github.com/skndungu/Two-Cell-Liion-Buck-Boost-Conveter-output-5V-1.5A
+Text Notes 3750 5200 0    50   ~ 0
+Open Source Hardware
 $EndSCHEMATC

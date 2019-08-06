@@ -821,4 +821,26 @@ F 3 "" H 8400 5400 50  0001 C CNN
 	1    8400 5350
 	1    0    0    -1  
 $EndComp
+$Comp
+L Graphic:Logo_Open_Hardware_Small #LOGO2
+U 1 1 5D4B6FE2
+P 8700 6750
+F 0 "#LOGO2" H 8700 7025 50  0001 C CNN
+F 1 "Logo_Open_Hardware_Small" H 8700 6525 50  0001 C CNN
+F 2 "" H 8700 6750 50  0001 C CNN
+F 3 "~" H 8700 6750 50  0001 C CNN
+	1    8700 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Graphic:Logo_Open_Hardware_Small #LOGO1
+U 1 1 5D4B794A
+P 4150 4900
+F 0 "#LOGO1" H 4150 5175 50  0001 C CNN
+F 1 "Logo_Open_Hardware_Small" H 4150 4675 50  0001 C CNN
+F 2 "" H 4150 4900 50  0001 C CNN
+F 3 "~" H 4150 4900 50  0001 C CNN
+	1    4150 4900
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
